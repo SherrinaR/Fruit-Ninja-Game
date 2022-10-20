@@ -4,6 +4,10 @@ The objective of this project is to build a fruit ninja game with python. This g
 
 In this game, the user has to cut the fruits by touching the mouse on the fruits. There are also bombs among the fruits. If the mouse touches more than three bombs then the game will be over.
 
+<img src="./images/fruitNinja.png" width=500 height=300>
+
+<img src="./images/fruitNinja2.png" width=500 height=300>
+
 ## Requirements:
 
 Python3  
